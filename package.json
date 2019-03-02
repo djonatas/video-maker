@@ -1,0 +1,19 @@
+{
+  "name": "video-maker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "git status"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DJONATAS/video-maker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DJONATAS/video-maker/issues"
+  },
+  "homepage": "https://github.com/DJONATAS/video-maker#readme"
+}
