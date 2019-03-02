@@ -16,8 +16,6 @@ function start() {
 
         return  prefix[selectedPrefixIndex];
     }
-
-
     console.log(content);
 }
 
